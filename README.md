@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Salut, je suis Guillaume Béranger
 
-<!--
-**leonon93/leonon93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Étudiant en Informatique
+- **École :** Efrei Paris
+- **Formation :** 2ème année de classe préparatoire intégrée internationale
+- **Localisation :** Région parisienne, France 🇫🇷
 
-Here are some ideas to get you started:
+## 💻 Développeur Autodidacte
+J'apprends à coder depuis **2021** en autodidacte, passionné par le développement et les technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies Maîtrisées
+
+### Langages de Programmation
+- **Python** 🐍
+- **C** ⚡
+
+### Outils & Environnements
+- **Linux** 🐧
+- **VSCode** 💻
+- **Gestion de serveur Linux** 🖥️
+
+## 🚀 Ce que je fais
+
+Actuellement en formation à Efrei Paris, je combine mes études en classe préparatoire avec ma passion pour le développement informatique. Mon approche autodidacte depuis 2021 m'a permis de développer une solide base technique et une capacité d'apprentissage autonome.
+
+## 📫 Contact
+
+N'hésitez pas à me contacter pour échanger sur des projets ou opportunités de collaboration !
+
+---
+
+*"Le code est la poésie de la logique"* ✨
