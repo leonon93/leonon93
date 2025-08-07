@@ -8,9 +8,9 @@
 
 ## 🎯 Qui suis-je ?
 
-> *"Le code est la poésie de la logique"* ✨
+> *"L'erreur vient toujours entre la chaise et le clavier"* ⌨️
 
-Passionné de développement depuis **2021**, j'ai choisi la voie de l'autodidaxie pour maîtriser l'art du code. Actuellement en **2ème année de classe préparatoire intégrée internationale** à **Efrei Paris**, je combine rigueur académique et créativité technique.
+Passionné de développement depuis **2021**, j'ai choisi la voie de l'autodidaxie pour maîtriser l'art du code. J'ai rejoint **Efrei Paris** en **2024** et suis actuellement en **2ème année de classe préparatoire intégrée internationale**, combinant rigueur académique et créativité technique.
 
 ### 🌍 Localisation
 - **📍 Région parisienne, France** 🇫🇷
@@ -41,18 +41,16 @@ Passionné de développement depuis **2021**, j'ai choisi la voie de l'autodidax
 
 ## 🚀 Mon Parcours
 
-```mermaid
-graph LR
-    A[2021 - Début Autodidacte] --> B[Python]
-    B --> C[Linux & Serveurs]
-    C --> D[C Langage]
-    D --> E[Efrei Paris 2023]
-    E --> F[Classe Prépa Intégrée]
-    F --> G[Futur Ingénieur]
-    
-    style A fill:#4F46E5
-    style G fill:#10B981
-```
+<div align="center">
+  
+  ![2021](https://img.shields.io/badge/2021-Début_Autodidacte-4F46E5?style=for-the-badge)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![2024](https://img.shields.io/badge/2024-Efrei_Paris-10B981?style=for-the-badge)
+  ![Futur](https://img.shields.io/badge/Futur-Ingénieur-FF6B6B?style=for-the-badge)
+  
+</div>
 
 ---
 
@@ -68,7 +66,7 @@ graph LR
 ## 📊 Mes Stats GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonon93&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
@@ -77,8 +75,8 @@ graph LR
 
 *Quand je code, j'écoute souvent :*
 - 🎧 **Lo-Fi** pour la concentration
-- 🎵 **Classique** pour la logique
-- 🎶 **Jazz** pour la créativité
+- 🎸 **Rock** pour l'énergie
+- 🎶 **Electro** pour la créativité
 
 ---
 
@@ -86,9 +84,7 @@ graph LR
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/guillaume-béranger-1b7518327)
   
 </div>
 
@@ -96,7 +92,7 @@ graph LR
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=leonon93&color=blueviolet&style=for-the-badge)
   
   *Merci de votre visite ! 👋*
   
