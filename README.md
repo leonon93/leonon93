@@ -54,10 +54,9 @@ Passionné de développement depuis **2021**, j'ai choisi la voie de l'autodidax
   | 🐍 Python | 85/100 | ████████░░ |
   | ⚡ C | 50/100 | █████░░░░░ |
   | 🌐 HTML/CSS | 75/100 | ███████░░░ |
-  | 🟨 JavaScript | 70/100 | ██████░░░░ |
-  | ⚛️ React | 60/100 | █████░░░░░ |
+  | 🟨 JavaScript | 50/100 | █████░░░░░ |
+  | ⚛️ React | 50/100 | █████░░░░░ |
   | 🐧 Linux | 80/100 | ████████░░ |
-  | 🎓 Formation | 60/100 | █████░░░░░ |
   
 </div>
 
@@ -68,7 +67,7 @@ Passionné de développement depuis **2021**, j'ai choisi la voie de l'autodidax
   ![2021](https://img.shields.io/badge/2021-Début_Autodidacte-4F46E5?style=for-the-badge)
   ![2022](https://img.shields.io/badge/2022-Python_Master-3776AB?style=for-the-badge)
   ![2023](https://img.shields.io/badge/2023-Linux_%26_Web-00599C?style=for-the-badge)
-  ![2024](https://img.shields.io/badge/2024-Efrei_%26_C-10B981?style=for-the-badge)
+  ![2024](https://img.shields.io/badge/2024-C-10B981?style=for-the-badge)
   ![Futur](https://img.shields.io/badge/Futur-Ingénieur-FF6B6B?style=for-the-badge)
   
 </div>
@@ -81,14 +80,6 @@ Passionné de développement depuis **2021**, j'ai choisi la voie de l'autodidax
 - 🌐 **Développer** des solutions innovantes
 - 🤝 **Collaborer** sur des projets open-source
 - 📚 **Partager** mes connaissances avec la communauté
-
----
-
-## 📊 Mes Stats GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonon93&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ---
 
@@ -107,7 +98,7 @@ Passionné de développement depuis **2021**, j'ai choisi la voie de l'autodidax
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillaume-béranger-1b7518327)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonon93)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillaume.beranger@efrei.net)
   
 </div>
 
